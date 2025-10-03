@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Spark",
+  "description": "A modern dating application that helps you find your spark. Create a profile, swipe on potential matches, and start chatting instantly when you both like each other.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
